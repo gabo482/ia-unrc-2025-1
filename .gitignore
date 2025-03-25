@@ -1,0 +1,12 @@
+# Formatos comunes de imagen
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.ico
+*.webp
+.RData
+.Rhistory
